@@ -1,0 +1,20 @@
+name: SkyWars
+version: 1.0
+main: skywarsplugin
+api-version: '1.19'
+commands:
+  sendplayertoheaven:
+    description: "for my brother"
+    usage: "/sendtoheaven <name>"
+
+  summonnpc: # Change this line to match the command name used in your Java code
+    description: "To play SkyWars"
+    usage: "/summonnpc <name> <type>"
+    permission: skywars.summonpc
+  start:
+    description: "To play SkyWars"
+    usage: "/start"
+    permission: skywars.admin
+config:
+  lobby_world: "hbwl"
+  alejo_world: "Alejo"
