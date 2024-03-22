@@ -1,4 +1,4 @@
-# SkyWars Bukkit Plugin
+# SkyWars Bukkit Plugin WIP
 
 ## Description
 SkyWars Bukkit Plugin is a Minecraft minigame plugin that allows players to participate in exciting PvP battles in the sky. Players are teleported to an arena where they must gather resources, fight other players, and be the last one standing to win the game.
